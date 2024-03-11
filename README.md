@@ -1,16 +1,9 @@
-# flash_quiz
+# Flashcard Quiz App
+This is a Flutter application for creating and managing flashcards for quiz purposes. It allows users to add, delete, and review flashcards. Users can also take quizzes based on the flashcards they have created.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Add new flashcards with a question and answer.
+Delete existing flashcards.
+Review flashcards individually.
+Take quizzes based on the flashcards.
+Keep track of quiz scores.
